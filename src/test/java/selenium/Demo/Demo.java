@@ -10,6 +10,7 @@ public void method()
 
 {
 	System.out.println("Hi");
+	System.out.println("Heloo");
 }
 
 }
