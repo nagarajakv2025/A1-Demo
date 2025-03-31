@@ -9,7 +9,7 @@ public class Demo1 {
 		public void method()
 
 		{
-			System.out.println("Good Morning");
+			System.out.println("Good Evening");
 		}
 
 }
